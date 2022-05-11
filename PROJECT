@@ -1,0 +1,6 @@
+domain: iac-operator.io
+layout:
+- go.kubebuilder.io/v3
+projectName: iac-operator
+repo: terakoya76/iac-operator
+version: "3"
